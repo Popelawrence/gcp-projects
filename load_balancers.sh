@@ -87,3 +87,6 @@ gcloud compute forwarding-rules create http-content-rule \
         
 #confirm the forwarding rule:
 gcloud compute forwarding-rules list
+
+
+#Network Load Balancing is a regional, non-proxied load balancer.
